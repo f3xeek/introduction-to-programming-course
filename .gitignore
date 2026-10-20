@@ -1,8 +1,10 @@
 # Python
 __pycache__/
 *.py[cod]
+*.py
 .pytest_cache/
 .ruff_cache/
+.jukit/
 
 # Conda and virtual environments
 .conda/
